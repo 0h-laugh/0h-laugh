@@ -3,7 +3,5 @@
 <h1> Hello! I'm Olaf ☃️ </h1>
 I am a student at 42 Warsaw 🏔️
 
-<h2>🌄 42 Warsaw Piscine</h2>
-> My projects
 <h2>☀️ 42 Warsaw Common Core</h2>
-> My projects
+> Currently at Libft
