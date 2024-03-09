@@ -3,7 +3,7 @@
 <h1> Hello! I'm Olaf ☃️ </h1>
 I am a student at 42 Warsaw 🏔️
 
-<h2>[☀️ 42 Warsaw Common Core](https://github.com/0h-laugh/Core)</h2>
+<h2>[![☀️ 42 Warsaw Common Core](https://img.shields.io/badge/42%20Warsaw%20Common%20Core-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/0h-laugh/Core)</h2>
 <a href="https://github.com/0h-laugh/Core/tree/main/libft"><img src="https://img.shields.io/badge/LIBFT-Repository-brightgreen" alt="LIBFT Repository"></a>
 
 
