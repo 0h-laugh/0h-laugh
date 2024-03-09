@@ -4,6 +4,6 @@
 I am a student at 42 Warsaw 🏔️
 
 <h2>☀️ 42 Warsaw Common Core</h2>
-<a href="https://github.com/0h-laugh/Core/tree/main/libft" style="background-color:#4CAF50;color:white;padding:12px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;border-radius:10px;cursor:pointer;">LIBFT Repository</a>
+[![LIBFT Repository](https://img.shields.io/badge/LIBFT%20Repository-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/0h-laugh/Core/tree/main/libft)
 
 
