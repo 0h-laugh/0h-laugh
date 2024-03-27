@@ -8,11 +8,10 @@
 
 ## <p align="center">42 Common Core:</p>
 
-[![42 Badge](https://img.shields.io/badge/42-Student-blue)](https://www.42.fr/)
-[![42 Badge](https://img.shields.io/badge/42-Project%201-blue)](https://github.com/mcombeau/project1)
-[![42 Badge](https://img.shields.io/badge/42-Project%202-blue)](https://github.com/mcombeau/project2)
-[![42 Badge](https://img.shields.io/badge/42-Project%203-blue)](https://github.com/mcombeau/project3)
-[![42 Badge](https://img.shields.io/badge/42-Project%204-blue)](https://github.com/mcombeau/project4)
+[![Libft](https://img.shields.io/badge/Project%201-Repository-blue)](https://github.com/0h-laugh/libft)
+[![FT_Printf](https://img.shields.io/badge/Project%202-Repository-green)](https://github.com/0h-laugh/ft_printf)
+[![Project 3](https://img.shields.io/badge/Project%203-Repository-orange)](https://github.com/your-username/project3)
+[![Project 4](https://img.shields.io/badge/Project%204-Repository-red)](https://github.com/your-username/project4)
 
 ## <p align="center">GitHub Stats</p>
 <p align="center">If you want to look at some stats:</p>
