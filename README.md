@@ -1,17 +1,19 @@
-# Olaf's GitHub Repository
+# <p align="center">Hey, I'm Olaf ☃️</p>
 
-## Introduction
-Welcome to my GitHub repository! I'm Olaf, a student at 42 Warsaw, passionate about programming, cybersecurity, and effective learning. Here, you'll find a collection of projects, code snippets, and resources related to my journey in the world of technology.
+I'm Olaf, a 42 Warsaw student. Feel free to explore my GitHub repository!
 
-## Projects
-### [42 Warsaw Common Core](https://github.com/0h-laugh/Core)
-Explore my contributions to the 42 Warsaw Common Core curriculum. From mastering fundamental programming concepts to diving into cybersecurity, this repository showcases my growth and learning journey.
+## 42 Common Core
+Here are my school projects:
 
-#### Featured Project:
-- [LIBFT](https://github.com/0h-laugh/Core/tree/main/libft): My implementation of various standard C library functions, a crucial project in the 42 curriculum.
+[![42 Badge](https://img.shields.io/badge/42-Student-blue)](https://www.42.fr/)
+[![42 Badge](https://img.shields.io/badge/42-Project%201-blue)](https://github.com/mcombeau/project1)
+[![42 Badge](https://img.shields.io/badge/42-Project%202-blue)](https://github.com/mcombeau/project2)
+[![42 Badge](https://img.shields.io/badge/42-Project%203-blue)](https://github.com/mcombeau/project3)
+[![42 Badge](https://img.shields.io/badge/42-Project%204-blue)](https://github.com/mcombeau/project4)
 
-## Badges
-[![42 Warsaw](https://img.shields.io/badge/42%20Warsaw-Student-brightgreen)](https://42warsaw.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Olaf-blue)](https://github.com/0h-laugh)
+## GitHub Stats
+If you want to look at some stats:
 
-Feel free to explore, contribute, or reach out to me for collaboration opportunities or discussions on programming, cybersecurity, or anything tech-related!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&layout=compact)](https://github.com/0h-laugh)
+
+Feel free to explore my projects and connect with me!
