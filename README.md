@@ -1,3 +1,5 @@
+![Snowfall](https://raw.githubusercontent.com/your-username/your-repository/main/snow.gif)
+
 # <p align="center">Hey, I'm Olaf ☃️</p>
 
 <p align="center">I'm Olaf, a 42 Warsaw student. Feel free to explore my GitHub repository!</p>
