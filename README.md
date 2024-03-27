@@ -1,4 +1,4 @@
-<h1><p align="center">Hello! I'm Olaf ☃️</p></h1>
+<h1><p align="center">Hello! I'm Olaf</p></h1>
 I am a student at 42 Warsaw 🏔️
 
 <h2><a href="https://github.com/0h-laugh/Core">☀️ 42 Warsaw Common Core</a></h2>
