@@ -12,10 +12,11 @@
 [![FT_Printf](https://img.shields.io/badge/ft_pritf%2repo-Repository-green)](https://github.com/0h-laugh/ft_printf)
 [![Project 3](https://img.shields.io/badge/Project%203-Repository-orange)](https://github.com/your-username/project3)
 [![Project 4](https://img.shields.io/badge/Project%204-Repository-red)](https://github.com/your-username/project4)
-
+<div align="center">
 ## <p align="center">GitHub Stats</p>
 <p align="center">If you want to look at some stats:</p>
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&layout=compact)](https://github.com/0h-laugh)
-</div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&layout=compact)](https://github.com/0h-laugh)
+
 Feel free to explore my projects and connect with me!
+</div>
