@@ -1,4 +1,4 @@
-<p align="center"> ![Snowfall](https://github.com/0h-laugh/assets/raw/main/pure-css-snow-animation.gif) </p>
+![Snowfall](https://github.com/0h-laugh/assets/raw/main/pure-css-snow-animation.gif)
 
 # <p align="center">Hey, I'm Olaf ☃️</p>
 
