@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github.com/0h-laugh/assets/raw/main/pure-css-snow-animation.gif" alt="Snowfall">
 </div>
-
+<div align="center">
+  
 # <p align="center">Hey, I'm Olaf ☃️</p>
 
 <p align="center">I'm Olaf, a 42 Warsaw student. Feel free to explore my GitHub repository!</p>
@@ -11,6 +12,7 @@
 [![Libft](https://img.shields.io/badge/Libft-Repository-blue)](https://github.com/0h-laugh/libft)
 [![FT_Printf](https://img.shields.io/badge/FT_Printf-Repository-green)](https://github.com/0h-laugh/ft_printf)
 
+</div>
 <div align="center">
   
 ## GitHub Stats
