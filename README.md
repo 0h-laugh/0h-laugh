@@ -8,10 +8,9 @@
 
 ## <p align="center">42 Common Core:</p>
 
-[![Libft](https://img.shields.io/badge/libft%2repo-Repository-blue)](https://github.com/0h-laugh/libft)
-[![FT_Printf](https://img.shields.io/badge/ft_pritf%2repo-Repository-green)](https://github.com/0h-laugh/ft_printf)
-[![Project 3](https://img.shields.io/badge/Project%203-Repository-orange)](https://github.com/your-username/project3)
-[![Project 4](https://img.shields.io/badge/Project%204-Repository-red)](https://github.com/your-username/project4)
+[![Libft](https://img.shields.io/badge/Libft-Repository-blue)](https://github.com/0h-laugh/libft)
+[![FT_Printf](https://img.shields.io/badge/FT_Printf-Repository-green)](https://github.com/0h-laugh/ft_printf)
+
 <div align="center">
   
 ## GitHub Stats
@@ -21,4 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&layout=compact)](https://github.com/0h-laugh)
 
 If you need anything, reach me here:
+
+[![Discord](https://img.shields.io/badge/Discord-YourDiscordTag-9cf)](https://discordapp.com/users/YourDiscordID)
 </div>
