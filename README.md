@@ -1,24 +1,25 @@
 <div align="center">
   <img src="https://github.com/0h-laugh/assets/raw/main/pure-css-snow-animation.gif" alt="Snowfall">
+</div>
 
-# Hey, I'm Olaf ☃️
+# <p align="center">Hey, I'm Olaf ☃️</p>
 
-I'm Olaf, a 42 Warsaw student. Feel free to explore my GitHub repository!
+<p align="center">I'm Olaf, a 42 Warsaw student. Feel free to explore my GitHub repository!</p>
 
-## 42 Common Core:
+## <p align="center">42 Common Core:</p>
 
-[![Libft](https://img.shields.io/badge/Libft-Repository-blue)](https://github.com/0h-laugh/Core/tree/main/libft)
-[![FT_Printf](https://img.shields.io/badge/FT_Printf-Repository-green)](https://github.com/0h-laugh/Core/tree/main/ft_printf)
+[![Libft](https://img.shields.io/badge/Libft-Repository-blue)](https://github.com/0h-laugh/libft)
+[![FT_Printf](https://img.shields.io/badge/FT_Printf-Repository-green)](https://github.com/0h-laugh/ft_printf)
 
-
+<div align="center">
   
 ## GitHub Stats
 
-If you want to look at some stats:
+<p align="center">If you want to look at some stats:</p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&layout=compact)](https://github.com/0h-laugh)
 
 If you need anything, reach me here:
 
-[![Discord](https://img.shields.io/badge/Discord-YourDiscordTag-9cf)](https://discordapp.com/users/.liarfather)
+[![Discord](https://img.shields.io/badge/Discord-YourUsername%23448869551476572180-9cf)](https://discordapp.com/users/448869551476572180)
 </div>
