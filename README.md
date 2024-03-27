@@ -25,4 +25,3 @@ If you need anything, reach me here:
 
 [![Discord](https://img.shields.io/badge/Discord-YourUsername%23448869551476572180-9cf)](https://discordapp.com/users/448869551476572180)
 </div>
-![Your Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=0h-laugh)
