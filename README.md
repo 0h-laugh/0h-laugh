@@ -6,8 +6,7 @@
 
 <p align="center">I'm Olaf, a 42 Warsaw student. Feel free to explore my GitHub repository!</p>
 
-## <p align="center">42 Common Core</p>
-<p align="center">Here are my school projects:</p>
+## <p align="center">42 Common Core:</p>
 
 [![42 Badge](https://img.shields.io/badge/42-Student-blue)](https://www.42.fr/)
 [![42 Badge](https://img.shields.io/badge/42-Project%201-blue)](https://github.com/mcombeau/project1)
