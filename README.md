@@ -1,5 +1,5 @@
 <p align="center">
-#Hello! I'm Olaf ☃️
+<h1>Hello! I'm Olaf ☃️</h1>
 </p>
 I am a student at 42 Warsaw 🏔️
 
