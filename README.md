@@ -20,5 +20,5 @@ If you want to look at some stats:
 
 If you need anything, reach me here:
 
-[![Discord](https://img.shields.io/badge/Discord-YourDiscordTag-9cf)](https://discordapp.com/users/YourDiscordID)
+[![Discord](https://img.shields.io/badge/Discord-YourDiscordTag-9cf)](https://discordapp.com/users/.liarfather)
 </div>
