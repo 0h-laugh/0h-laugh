@@ -20,5 +20,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&layout=compact)](https://github.com/0h-laugh)
 
-Feel free to explore my projects and connect with me!
+If you need anything, reach me here:
 </div>
