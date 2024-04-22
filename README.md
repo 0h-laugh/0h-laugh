@@ -24,7 +24,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&layout=compact)](https://github.com/0h-laugh)
 
-If you need anything, reach me here:
+If you need anything, make a snowball:
 
 [![Discord](https://img.shields.io/badge/Discord-YourUsername%23448869551476572180-9cf)](https://discordapp.com/users/448869551476572180)
 </div>
