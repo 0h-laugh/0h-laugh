@@ -30,4 +30,4 @@ If you need anything, feel free to reach me anywhere you can! ❄️
 
 ## <p align="center">In Progress:</p>
 
-<p align="center">-push_swap<br>-personal website</p>
+<p align="center">-push_swap<br>-personal website<br>-minitalk</p>
