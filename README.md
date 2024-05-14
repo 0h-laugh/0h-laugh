@@ -2,11 +2,17 @@
 *I am a  <sup>42</sup>Warsaw student. Feel free to explore my GitHub!*
 
 ### 42 Common Core: 
+<a href="https://github.com/0h-laugh/Core/tree/main/libft">
+  <img src="https://github.com/0h-laugh/0h-laugh/raw/main/keep_laughing/libft.png" width="120" alt="libft.png">
+</a>
+<a href="https://github.com/0h-laugh/0h-laugh/blob/main/keep_laughing/born2beroot.png">
+  <img src="https://github.com/0h-laugh/0h-laugh/raw/main/keep_laughing/born2beroot.png" width="120" alt="born2beroot.png">
+</a>
 
-- [x] libft
-- [x] born2beroot
-- [x] ft_printf
-- [x] get_next_line
+
+
+
+
 
 ### In Progress:
 
