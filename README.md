@@ -1,33 +1,20 @@
-<div align="center">
-  <img src="https://github.com/0h-laugh/assets/raw/main/pure-css-snow-animation.gif" alt="Snowfall">
-</div>
-<div align="center">
-  
-# <p align="center">Hey, I'm Olaf ☃️</p>
+# Hello, I'm Olaf ☃️
+*I am a 42 Warsaw student. Feel free to explore my GitHub!*
 
-<p align="center">I'm Olaf, a 42 Warsaw student. Feel free to explore my GitHub repository!</p>
+### 42 Common Core: 
 
-## <p align="center">42 Common Core:</p>
+### In Progress:
 
-[![FT_Printf Badge](https://github.com/0h-laugh/assets/blob/main/printff.png)](https://github.com/0h-laugh/Core/tree/main/ft_printf)
-[![GET_NEXT_LINE Badge](https://github.com/0h-laugh/assets/blob/main/gnll.png)](https://github.com/0h-laugh/Core/tree/main/get_next_line)
+`Common Core:`
+> push_swap </br>
+> minitalk
 
-[![LIBFT Badge](https://github.com/0h-laugh/assets/blob/main/libfte.png)](https://github.com/0h-laugh/Core/tree/main/libft)
-
-
-</div>
-<div align="center">
-  
-## GitHub Stats
-
-<p align="center">If you want to look at some stats:</p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&layout=compact)](https://github.com/0h-laugh)
+`Personal:`
+> website </br>
 
 If you need anything, feel free to reach me anywhere you can! ❄️
+  
+#
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) </br>
 
-</div>
-
-## <p align="center">In Progress:</p>
-
-<p align="center">-push_swap<br>-personal website<br>-minitalk</p>
+[![](https://visitcount.itsvg.in/api?id=0h-laugh&icon=5&color=12)](https://visitcount.itsvg.in)
