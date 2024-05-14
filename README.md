@@ -1,7 +1,12 @@
 # Hello, I'm Olaf ☃️
-*I am a 42 Warsaw student. Feel free to explore my GitHub!*
+*I am a  <sup>42</sup>Warsaw student. Feel free to explore my GitHub!*
 
 ### 42 Common Core: 
+
+- [x] libft
+- [x] born2beroot
+- [x] ft_printf
+- [x] get_next_line
 
 ### In Progress:
 
