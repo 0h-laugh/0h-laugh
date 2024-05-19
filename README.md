@@ -4,7 +4,7 @@
 ### My Toolkit:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="c logo"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="notion logo"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" alt="photoshop logo">
 
-### 42 Common Core: 
+### [42 Common Core:](https://github.com/0h-laugh/Core)
 <picture>
   <a href="https://github.com/0h-laugh/Core/tree/main/libft">
     <img src="https://github.com/0h-laugh/0h-laugh/raw/main/keep_laughing/libft.png" width="120" alt="libft.png">
