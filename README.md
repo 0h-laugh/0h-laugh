@@ -35,7 +35,6 @@
 > website </br>
 
 If you need anything, feel free to reach me anywhere you can! ❄️
-I am looking for hackatons, please reach out
 
 #
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0h-laugh&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) </br>
