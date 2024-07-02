@@ -28,7 +28,7 @@
 
 ### In Progress:
 `Common Core:`
-> push_swap (not for long) </br>
+> push_swap</br>
 > minitalk
 
 `Personal:`
