@@ -29,7 +29,7 @@
 ### In Progress:
 `Common Core:`
 > push_swap</br>
-> minitalk
+> 
 
 `Personal:`
 > website </br>
