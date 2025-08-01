@@ -1,5 +1,5 @@
 # Hello, I'm Olaf ☃️
-*I am a  <sup>42</sup>Warsaw student and a full-time full-stack dev.</br> Feel free to explore my GitHub!*
+*I am a  <sup>42</sup>Warsaw student and a full-time full-stack ```dev```.</br> Feel free to explore my GitHub!*
 
 ### My Toolkit:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="c logo"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="notion logo"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" alt="photoshop logo"> `and more coming...`
